@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.exe.config
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.exe
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.pdb
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter_DM_Sender.Form1.resources
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter_DM_Sender.Properties.Resources.resources
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.exe
+C:\Users\user\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.pdb
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.exe.config
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.exe
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\bin\Debug\Twitter DM Sender.pdb
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.csprojAssemblyReference.cache
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter_DM_Sender.Form1.resources
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter_DM_Sender.Properties.Resources.resources
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.csproj.GenerateResource.cache
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.exe
+C:\Users\techMAYA\source\repos\Twitter DM Sender\Twitter DM Sender\obj\Debug\Twitter DM Sender.pdb

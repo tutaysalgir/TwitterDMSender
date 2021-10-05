@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter DM Sender", "Twitter DM Sender\Twitter DM Sender.csproj", "{7F3C6F23-F314-4F22-8550-6D969BAEAB8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3C6F23-F314-4F22-8550-6D969BAEAB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3C6F23-F314-4F22-8550-6D969BAEAB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3C6F23-F314-4F22-8550-6D969BAEAB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3C6F23-F314-4F22-8550-6D969BAEAB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655094BD-663A-4865-A6AD-EAD7D0D24CB0}
+	EndGlobalSection
+EndGlobal
